@@ -10,5 +10,7 @@ In such a scenario, the pregnancy-related risks can be reduced by forecasting th
 and by taking preventive measures. Thus, the use of predictive modeling became emergent to 
 save the lives of millions of mothers and infant.
 <h5>Live vedio:</h5>
+
+
 https://github.com/anjaliisonii/PregFree-Web_Aap/assets/95306164/dea9b7dd-1771-40e6-a28a-67a4afdfb9ff
 
