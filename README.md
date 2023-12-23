@@ -8,4 +8,6 @@ temperature, and finally, the model will predict risk levels or complications in
 will classify the patients with a low, medium or high risk of having pregnancy complications.
 In such a scenario, the pregnancy-related risks can be reduced by forecasting the complications 
 and by taking preventive measures. Thus, the use of predictive modeling became emergent to 
-save the lives of millions of mothers and infant
+save the lives of millions of mothers and infant.
+<h5>Live vedio:</h5>
+https://github.com/anjaliisonii/PregFree-Web_Aap/assets/95306164/4aa8077c-435e-480d-b2bc-456606e83ae3
